@@ -4,4 +4,4 @@
 
 ### Sample Image
 
-![Sample One](./images/pic.png)
+![Sample One](./images/img.png)
